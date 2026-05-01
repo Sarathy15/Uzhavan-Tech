@@ -1,0 +1,8 @@
+
+{
+  "name": "Uzhavan Tech",
+  "description": "An AI-powered agricultural assistant for farmers to detect crop diseases from images, get multilingual advice, and access weather insights and analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
